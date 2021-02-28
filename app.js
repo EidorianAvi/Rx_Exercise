@@ -97,7 +97,7 @@ console.log(countActiveNeighbors(1, example1));//Expected result: 1
 console.log(countActiveNeighbors(1, example2));//Expected result: 2
 console.log(countActiveNeighbors(1, example3));//Expected result: 2
 
-//The instructions for the exercise state that example 5 should return a result of 2 but visually looking at example 4 there is only 1 active cell adjacent to the first cell block.
+//The instructions for the exercise state that example 4 should return a result of 2 but visually looking at example 4 there is only 1 active cell adjacent to the first cell block.
 
 console.log(countActiveNeighbors(1, example4));//Expected result: 1
 
